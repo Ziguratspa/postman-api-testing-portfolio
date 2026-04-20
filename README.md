@@ -23,11 +23,11 @@ Suite de pruebas automatizadas para **API REST** utilizando **Postman** y **Newm
 - Base URL: `https://jsonplaceholder.typicode.com`
 - Documentación: [JSONPlaceholder Guide](https://jsonplaceholder.typicode.com/guide/)
 
-## 📊 Resumen de Pruebas
+## 📊 Resumen de Pruebas [Ver captura](./assets/Captura_Postman.png)
 
 | Método | Endpoint | Tests | Estado |
 |--------|----------|-------|--------|
-| GET | `/posts` | 3 assertions | ✅ PASS |
+| GET | `/posts` | 3 assertions | ✅ PASS | 
 | GET | `/posts/{id}` | 4 assertions | ✅ PASS |
 | POST | `/posts` | 3 assertions | ✅ PASS |
 | PUT | `/posts/{id}` | 2 assertions | ✅ PASS |
